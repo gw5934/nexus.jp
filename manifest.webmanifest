@@ -1,0 +1,10 @@
+{
+  "name": "NEXUS Personal Command Center",
+  "short_name": "NEXUS",
+  "start_url": "./index.html",
+  "display": "standalone",
+  "background_color": "#060a10",
+  "theme_color": "#060a10",
+  "description": "Black and neon blue personal command center",
+  "icons": [{"src":"./icon.svg","sizes":"any","type":"image/svg+xml","purpose":"any maskable"}]
+}
